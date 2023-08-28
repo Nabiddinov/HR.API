@@ -9176,11 +9176,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VICTUS\\source\\repos\\HR.API.Test1\\HR.API.Test1.csproj",
+      "projectUniqueName": "C:\\Users\\VICTUS\\OneDrive\\Desktop\\HR.API\\HR.API.Test1\\HR.API.Test1.csproj",
       "projectName": "HR.API.Test1",
-      "projectPath": "C:\\Users\\VICTUS\\source\\repos\\HR.API.Test1\\HR.API.Test1.csproj",
+      "projectPath": "C:\\Users\\VICTUS\\OneDrive\\Desktop\\HR.API\\HR.API.Test1\\HR.API.Test1.csproj",
       "packagesPath": "C:\\Users\\VICTUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VICTUS\\source\\repos\\HR.API.Test1\\obj\\",
+      "outputPath": "C:\\Users\\VICTUS\\OneDrive\\Desktop\\HR.API\\HR.API.Test1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VICTUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9197,8 +9197,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\VICTUS\\source\\repos\\HR\\HR.csproj": {
-              "projectPath": "C:\\Users\\VICTUS\\source\\repos\\HR\\HR.csproj"
+            "C:\\Users\\VICTUS\\OneDrive\\Desktop\\HR.API\\HR\\HR.csproj": {
+              "projectPath": "C:\\Users\\VICTUS\\OneDrive\\Desktop\\HR.API\\HR\\HR.csproj"
             }
           }
         }

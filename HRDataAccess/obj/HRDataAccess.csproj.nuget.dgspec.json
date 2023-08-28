@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VICTUS\\source\\repos\\HRDataAccess\\HRDataAccess.csproj": {}
+    "C:\\Users\\VICTUS\\OneDrive\\Desktop\\HR.API\\HRDataAccess\\HRDataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VICTUS\\source\\repos\\HRDataAccess\\HRDataAccess.csproj": {
+    "C:\\Users\\VICTUS\\OneDrive\\Desktop\\HR.API\\HRDataAccess\\HRDataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VICTUS\\source\\repos\\HRDataAccess\\HRDataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\VICTUS\\OneDrive\\Desktop\\HR.API\\HRDataAccess\\HRDataAccess.csproj",
         "projectName": "HRDataAccess",
-        "projectPath": "C:\\Users\\VICTUS\\source\\repos\\HRDataAccess\\HRDataAccess.csproj",
+        "projectPath": "C:\\Users\\VICTUS\\OneDrive\\Desktop\\HR.API\\HRDataAccess\\HRDataAccess.csproj",
         "packagesPath": "C:\\Users\\VICTUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VICTUS\\source\\repos\\HRDataAccess\\obj\\",
+        "outputPath": "C:\\Users\\VICTUS\\OneDrive\\Desktop\\HR.API\\HRDataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VICTUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
