@@ -9,6 +9,5 @@
         public decimal Salary { get; set; }
         public int WrongProp { get; set; }
         public Adress Adress { get; set; }
-       // public int AdressId { get; set; }
     }
 }

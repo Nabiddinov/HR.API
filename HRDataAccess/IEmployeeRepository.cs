@@ -1,6 +1,4 @@
-﻿
-
-using HRDataAccess.Entites;
+﻿using HRDataAccess.Entites;
 
 namespace HRDataAccess
 {
