@@ -12,3 +12,17 @@ C:\Users\VICTUS\source\repos\HRDataAccess\obj\Debug\net6.0\HRDataAccess.pdb
 C:\Users\VICTUS\source\repos\HRDataAccess\obj\Debug\net6.0\ref\HRDataAccess.dll
 C:\Users\VICTUS\source\repos\HRDataAccess\bin\Debug\net6.0\HRDataAccess.runtimeconfig.json
 C:\Users\VICTUS\source\repos\HRDataAccess\obj\Debug\net6.0\HRDataAccess.genruntimeconfig.cache
+C:\Users\VICTUS\OneDrive\Desktop\HR.API\HRDataAccess\bin\Debug\net6.0\HRDataAccess.deps.json
+C:\Users\VICTUS\OneDrive\Desktop\HR.API\HRDataAccess\bin\Debug\net6.0\HRDataAccess.runtimeconfig.json
+C:\Users\VICTUS\OneDrive\Desktop\HR.API\HRDataAccess\bin\Debug\net6.0\HRDataAccess.dll
+C:\Users\VICTUS\OneDrive\Desktop\HR.API\HRDataAccess\bin\Debug\net6.0\HRDataAccess.pdb
+C:\Users\VICTUS\OneDrive\Desktop\HR.API\HRDataAccess\obj\Debug\net6.0\HRDataAccess.csproj.AssemblyReference.cache
+C:\Users\VICTUS\OneDrive\Desktop\HR.API\HRDataAccess\obj\Debug\net6.0\HRDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\OneDrive\Desktop\HR.API\HRDataAccess\obj\Debug\net6.0\HRDataAccess.AssemblyInfoInputs.cache
+C:\Users\VICTUS\OneDrive\Desktop\HR.API\HRDataAccess\obj\Debug\net6.0\HRDataAccess.AssemblyInfo.cs
+C:\Users\VICTUS\OneDrive\Desktop\HR.API\HRDataAccess\obj\Debug\net6.0\HRDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\OneDrive\Desktop\HR.API\HRDataAccess\obj\Debug\net6.0\HRDataAccess.dll
+C:\Users\VICTUS\OneDrive\Desktop\HR.API\HRDataAccess\obj\Debug\net6.0\refint\HRDataAccess.dll
+C:\Users\VICTUS\OneDrive\Desktop\HR.API\HRDataAccess\obj\Debug\net6.0\HRDataAccess.pdb
+C:\Users\VICTUS\OneDrive\Desktop\HR.API\HRDataAccess\obj\Debug\net6.0\HRDataAccess.genruntimeconfig.cache
+C:\Users\VICTUS\OneDrive\Desktop\HR.API\HRDataAccess\obj\Debug\net6.0\ref\HRDataAccess.dll
