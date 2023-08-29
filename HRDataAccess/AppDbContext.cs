@@ -7,9 +7,7 @@ namespace HRDataAccess
     public class AppDbContext : IdentityDbContext<AppUser>
     {
         public AppDbContext(DbContextOptions<AppDbContext> dbContextOptions) : base(dbContextOptions)
-        {
-
-        }
+        { }
 
         public DbSet<Employee> Employees { get; set; }
         public DbSet<Adress> Adresses { get; set; }

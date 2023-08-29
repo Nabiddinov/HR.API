@@ -33,7 +33,7 @@ namespace HRDataAccess
 
         public async Task<Employee> GetEmployee(int id)
         {
-           return await _dbcontext.Employees.FindAsync(id);
+            return await _dbcontext.Employees.FindAsync(id);
         }
 
         public async Task<IEnumerable<Employee>> GetEmployees()
