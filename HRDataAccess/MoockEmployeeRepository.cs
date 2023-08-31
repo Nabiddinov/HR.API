@@ -16,9 +16,9 @@ namespace HRDataAccess
         public static void Init()
         {
             _employee.TryAdd(1, new Employee { Id = 1, FullName = "Nabiddinov Abror", Departament = "IT", Email = "nabiddinovabror1@gmail.com" });
-            _employee.TryAdd(2, new Employee { Id = 2, FullName = "Sharifov Muhammadali", Departament = "IT", Email = "Sharifov@gmail.com" });
+            _employee.TryAdd(2, new Employee { Id = 2, FullName = "Muhammadali", Departament = "PM", Email = "Sharifov@gmail.com" });
             _employee.TryAdd(3, new Employee { Id = 3, FullName = "Anvar", Departament = "IT", Email = "Anvar@gmail.com" });
-            _employee.TryAdd(4, new Employee { Id = 4, FullName = "Javlon", Departament = "IT", Email = "Javlon@gmail.com" });
+            _employee.TryAdd(4, new Employee { Id = 4, FullName = "Javlomn", Departament = "Developer", Email = "Javlon@gmail.com" });
             _employee.TryAdd(5, new Employee { Id = 5, FullName = "Akhmad", Departament = "IT", Email = "Akhmad@gmail.com" });
         }
 
